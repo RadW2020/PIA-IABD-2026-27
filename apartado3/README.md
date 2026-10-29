@@ -58,4 +58,4 @@ Abrí `train.csv` en VS Code para ver su contenido. Cada fila es un texto genera
 
 El conjunto de entrenamiento está equilibrado: 150 textos por cada uno de los 18 modelos (149 en uno de ellos), de unas 115 palabras de media. Los modelos son de Anthropic, Google, OpenAI, Qwen, Moonshot (Kimi) y Z.ai (GLM).
 
-El dataset no se sube al repositorio (está en el `.gitignore`); aquí solo van las capturas.
+El dataset descargado está en [`name-that-llm/`](name-that-llm/). Procede de la competición [Name That LLM](https://www.kaggle.com/competitions/name-that-llm) de Kaggle y se incluye aquí bajo su licencia, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
